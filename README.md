@@ -1,3 +1,3 @@
 # languages-frameworks-atividade-4
 
-### Atividade realizada em JAVA para calcular IMC
+### Atividade realizada em Spring para calcular IMC
